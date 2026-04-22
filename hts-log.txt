@@ -1,0 +1,248 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Apr 2026 23:21:08 at https://www.flowparagliders.com.au +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.flowparagliders.com.au -O1 "C:\My Web Sitesf\flow" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:22:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/xmlrpc.php (from https://www.flowparagliders.com.au/)
+23:22:40	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/feed/
+23:22:40	Warning: 	File has moved from https://www.flowparagliders.com.au/feed/ to https://www.flowparagliders.com.au/feed/?v=89484b14b36a
+23:22:40	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/comments/feed/
+23:22:40	Warning: 	File has moved from https://www.flowparagliders.com.au/comments/feed/ to https://www.flowparagliders.com.au/comments/feed/?v=89484b14b36a
+23:23:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/xmlrpc.php?rsd (from https://www.flowparagliders.com.au/)
+23:23:04	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/future/
+23:23:04	Warning: 	File has moved from https://www.flowparagliders.com.au/future/ to https://www.flowparagliders.com.au/future/?v=89484b14b36a
+23:23:04	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/cosmos-2/
+23:23:04	Warning: 	File has moved from https://www.flowparagliders.com.au/cosmos-2/ to https://www.flowparagliders.com.au/cosmos-2/?v=89484b14b36a
+23:23:04	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/freedom-2/
+23:23:04	Warning: 	File has moved from https://www.flowparagliders.com.au/freedom-2/ to https://www.flowparagliders.com.au/freedom-2/?v=89484b14b36a
+23:23:06	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/f2-light/
+23:23:06	Warning: 	File has moved from https://www.flowparagliders.com.au/f2-light/ to https://www.flowparagliders.com.au/f2-light/?v=89484b14b36a
+23:23:08	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/panorama-2/
+23:23:08	Warning: 	File has moved from https://www.flowparagliders.com.au/panorama-2/ to https://www.flowparagliders.com.au/panorama-2/?v=89484b14b36a
+23:23:08	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/mystic-plus/
+23:23:08	Warning: 	File has moved from https://www.flowparagliders.com.au/mystic-plus/ to https://www.flowparagliders.com.au/mystic-plus/?v=89484b14b36a
+23:23:10	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/mystic/
+23:23:10	Warning: 	File has moved from https://www.flowparagliders.com.au/mystic/ to https://www.flowparagliders.com.au/mystic/?v=89484b14b36a
+23:23:35	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/fusion-light/
+23:23:35	Warning: 	File has moved from https://www.flowparagliders.com.au/fusion-light/ to https://www.flowparagliders.com.au/fusion-light/?v=89484b14b36a
+23:23:35	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/xcracer-2/
+23:23:35	Warning: 	File has moved from https://www.flowparagliders.com.au/xcracer-2/ to https://www.flowparagliders.com.au/xcracer-2/?v=89484b14b36a
+23:23:35	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/spectra-2/
+23:23:35	Warning: 	File has moved from https://www.flowparagliders.com.au/spectra-2/ to https://www.flowparagliders.com.au/spectra-2/?v=89484b14b36a
+23:23:39	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/product/mullet-2/
+23:23:39	Warning: 	File has moved from https://www.flowparagliders.com.au/product/mullet-2/ to https://www.flowparagliders.com.au/product/mullet-2/?v=89484b14b36a
+23:23:40	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/mulletx/
+23:23:40	Warning: 	File has moved from https://www.flowparagliders.com.au/mulletx/ to https://www.flowparagliders.com.au/mulletx/?v=89484b14b36a
+23:23:42	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/albatroxx/
+23:23:42	Warning: 	File has moved from https://www.flowparagliders.com.au/albatroxx/ to https://www.flowparagliders.com.au/albatroxx/?v=89484b14b36a
+23:23:43	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/yoti-3/
+23:23:43	Warning: 	File has moved from https://www.flowparagliders.com.au/yoti-3/ to https://www.flowparagliders.com.au/yoti-3/?v=89484b14b36a
+23:23:45	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/yoti-3-light/
+23:23:45	Warning: 	File has moved from https://www.flowparagliders.com.au/yoti-3-light/ to https://www.flowparagliders.com.au/yoti-3-light/?v=89484b14b36a
+23:23:46	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/ace/
+23:23:46	Warning: 	File has moved from https://www.flowparagliders.com.au/ace/ to https://www.flowparagliders.com.au/ace/?v=89484b14b36a
+23:23:46	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/cosmos/
+23:23:46	Warning: 	File has moved from https://www.flowparagliders.com.au/cosmos/ to https://www.flowparagliders.com.au/cosmos/?v=89484b14b36a
+23:23:47	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/freedom/
+23:23:47	Warning: 	File has moved from https://www.flowparagliders.com.au/freedom/ to https://www.flowparagliders.com.au/freedom/?v=89484b14b36a
+23:23:49	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/mullet/
+23:23:49	Warning: 	File has moved from https://www.flowparagliders.com.au/mullet/ to https://www.flowparagliders.com.au/mullet/?v=89484b14b36a
+23:23:50	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/panorama/
+23:23:50	Warning: 	File has moved from https://www.flowparagliders.com.au/panorama/ to https://www.flowparagliders.com.au/panorama/?v=89484b14b36a
+23:23:50	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/xcracer/
+23:23:50	Warning: 	File has moved from https://www.flowparagliders.com.au/xcracer/ to https://www.flowparagliders.com.au/xcracer/?v=89484b14b36a
+23:23:51	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/spectra/
+23:23:51	Warning: 	File has moved from https://www.flowparagliders.com.au/spectra/ to https://www.flowparagliders.com.au/spectra/?v=89484b14b36a
+23:23:53	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/yoti2/
+23:23:53	Warning: 	File has moved from https://www.flowparagliders.com.au/yoti2/ to https://www.flowparagliders.com.au/yoti2/?v=89484b14b36a
+23:23:54	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/yoti2-lite/
+23:23:54	Warning: 	File has moved from https://www.flowparagliders.com.au/yoti2-lite/ to https://www.flowparagliders.com.au/yoti2-lite/?v=89484b14b36a
+23:23:55	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/future-power/
+23:23:55	Warning: 	File has moved from https://www.flowparagliders.com.au/future-power/ to https://www.flowparagliders.com.au/future-power/?v=89484b14b36a
+23:23:56	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/cosmos-power-2/
+23:23:56	Warning: 	File has moved from https://www.flowparagliders.com.au/cosmos-power-2/ to https://www.flowparagliders.com.au/cosmos-power-2/?v=89484b14b36a
+23:23:58	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/rpm2/
+23:23:58	Warning: 	File has moved from https://www.flowparagliders.com.au/rpm2/ to https://www.flowparagliders.com.au/rpm2/?v=89484b14b36a
+23:23:58	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/cosmos-power/
+23:23:58	Warning: 	File has moved from https://www.flowparagliders.com.au/cosmos-power/ to https://www.flowparagliders.com.au/cosmos-power/?v=89484b14b36a
+23:23:59	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/rpm/
+23:23:59	Warning: 	File has moved from https://www.flowparagliders.com.au/rpm/ to https://www.flowparagliders.com.au/rpm/?v=89484b14b36a
+23:24:01	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/vissta-xc/
+23:24:01	Warning: 	File has moved from https://www.flowparagliders.com.au/vissta-xc/ to https://www.flowparagliders.com.au/vissta-xc/?v=89484b14b36a
+23:24:02	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/vissta/
+23:24:02	Warning: 	File has moved from https://www.flowparagliders.com.au/vissta/ to https://www.flowparagliders.com.au/vissta/?v=89484b14b36a
+23:24:03	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/product/flow-d-wing-v2/
+23:24:03	Warning: 	File has moved from https://www.flowparagliders.com.au/product/flow-d-wing-v2/ to https://www.flowparagliders.com.au/product/flow-d-wing-v2/?v=89484b14b36a
+23:24:04	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/product/dwing/
+23:24:04	Warning: 	File has moved from https://www.flowparagliders.com.au/product/dwing/ to https://www.flowparagliders.com.au/product/flow-d-wing-v2/
+23:24:04	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/aura-2/
+23:24:04	Warning: 	File has moved from https://www.flowparagliders.com.au/aura-2/ to https://www.flowparagliders.com.au/aura-2/?v=89484b14b36a
+23:24:04	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/d-chute/
+23:24:04	Warning: 	File has moved from https://www.flowparagliders.com.au/d-chute/ to https://www.flowparagliders.com.au/d-chute/?v=89484b14b36a
+23:24:06	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/rucksack/
+23:24:06	Warning: 	File has moved from https://www.flowparagliders.com.au/rucksack/ to https://www.flowparagliders.com.au/rucksack/?v=89484b14b36a
+23:24:09	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/quick-rucksack/
+23:24:09	Warning: 	File has moved from https://www.flowparagliders.com.au/quick-rucksack/ to https://www.flowparagliders.com.au/quick-rucksack/?v=89484b14b36a
+23:24:09	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/concertina-bag/
+23:24:09	Warning: 	File has moved from https://www.flowparagliders.com.au/concertina-bag/ to https://www.flowparagliders.com.au/concertina-bag/?v=89484b14b36a
+23:24:10	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/compression-bag/
+23:24:10	Warning: 	File has moved from https://www.flowparagliders.com.au/compression-bag/ to https://www.flowparagliders.com.au/compression-bag/?v=89484b14b36a
+23:24:12	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/lightweight-day-bag/
+23:24:12	Warning: 	File has moved from https://www.flowparagliders.com.au/lightweight-day-bag/ to https://www.flowparagliders.com.au/lightweight-day-bag/?v=89484b14b36a
+23:24:13	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-dry-fit-tshirt/
+23:24:13	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-dry-fit-tshirt/ to https://www.flowparagliders.com.au/flow-dry-fit-tshirt/?v=89484b14b36a
+23:24:14	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-cap-3/
+23:24:14	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-cap-3/ to https://www.flowparagliders.com.au/flow-cap-3/?v=89484b14b36a
+23:24:15	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-soft-shell-jacket/
+23:24:15	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-soft-shell-jacket/ to https://www.flowparagliders.com.au/flow-soft-shell-jacket/?v=89484b14b36a
+23:24:17	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/tandem-spreader-bars/
+23:24:17	Warning: 	File has moved from https://www.flowparagliders.com.au/tandem-spreader-bars/ to https://www.flowparagliders.com.au/tandem-spreader-bars/?v=89484b14b36a
+23:24:17	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/aura/
+23:24:17	Warning: 	File has moved from https://www.flowparagliders.com.au/aura/ to https://www.flowparagliders.com.au/aura/?v=89484b14b36a
+23:24:20	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-paragliders-dealers/
+23:24:20	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-paragliders-dealers/ to https://www.flowparagliders.com.au/flow-paragliders-dealers/?v=89484b14b36a
+23:24:20	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-ppg-dealers/
+23:24:20	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-ppg-dealers/ to https://www.flowparagliders.com.au/flow-ppg-dealers/?v=89484b14b36a
+23:24:22	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/contact/
+23:24:22	Warning: 	File has moved from https://www.flowparagliders.com.au/contact/ to https://www.flowparagliders.com.au/contact/?v=89484b14b36a
+23:24:35	Error: 	"Bad Request" (400) at link https://www.flowparagliders.com.au/wp-admin/admin-ajax.php (from https://www.flowparagliders.com.au/)
+23:24:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/xmlrpc.php (from https://www.flowparagliders.com.au/)
+23:24:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/xmlrpc.php?rsd (from https://www.flowparagliders.com.au/)
+23:27:39	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1019
+23:27:39	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1019 to https://www.flowparagliders.com.au/fusion/
+23:33:38	Warning: 	Link https://www.flowparagliders.com.au/mullet/?v=89484b14b36a not scanned (follow robots meta tag)
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4461
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4461 to https://www.flowparagliders.com.au/cart/
+23:40:48	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.flowparagliders.com.au/xmlrpc.php (from https://www.flowparagliders.com.au/)
+23:40:48	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.flowparagliders.com.au/xmlrpc.php?rsd (from https://www.flowparagliders.com.au/)
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=215
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=215 to https://www.flowparagliders.com.au/future/
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3086
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3086 to https://www.flowparagliders.com.au/cosmos-2/
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=2851
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=2851 to https://www.flowparagliders.com.au/freedom-2/
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4134
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4134 to https://www.flowparagliders.com.au/f2-light/
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3093
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3093 to https://www.flowparagliders.com.au/panorama-2/
+23:40:48	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/flow-panorama-2-41-vf-2/
+23:40:48	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-panorama-2-41-vf-2/ to https://www.flowparagliders.com.au/wp-content/uploads/2026/02/FLOW-Panorama-2-41-VF.xlsm
+23:40:49	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=5292
+23:40:49	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=5292 to https://www.flowparagliders.com.au/mystic-plus/
+23:40:49	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4232
+23:40:49	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4232 to https://www.flowparagliders.com.au/mystic/
+23:40:49	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1042
+23:40:49	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1042 to https://www.flowparagliders.com.au/fusion-light/
+23:40:49	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3090
+23:40:49	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3090 to https://www.flowparagliders.com.au/xcracer-2/
+23:40:49	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=2979
+23:40:49	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=2979 to https://www.flowparagliders.com.au/spectra-2/
+23:40:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/wp-content/uploads/2022/07/spectra-2-gallery-9.jpg (from https://www.flowparagliders.com.au/spectra-2/?v=89484b14b36a)
+23:40:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/wp-content/uploads/2022/07/spectra-2-gallery-10.jpg (from https://www.flowparagliders.com.au/spectra-2/?v=89484b14b36a)
+23:40:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.flowparagliders.com.au/wp-content/uploads/2022/07/spectra-2-gallery-12.jpg (from https://www.flowparagliders.com.au/spectra-2/?v=89484b14b36a)
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=6009
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=6009 to https://www.flowparagliders.com.au/product/mullet-2/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4359
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4359 to https://www.flowparagliders.com.au/mulletx/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=5138
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=5138 to https://www.flowparagliders.com.au/albatroxx/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3097
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3097 to https://www.flowparagliders.com.au/yoti-3/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3100
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3100 to https://www.flowparagliders.com.au/yoti-3-light/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1114
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1114 to https://www.flowparagliders.com.au/ace/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=991
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=991 to https://www.flowparagliders.com.au/cosmos/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1004
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1004 to https://www.flowparagliders.com.au/freedom/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1053
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1053 to https://www.flowparagliders.com.au/panorama/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1072
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1072 to https://www.flowparagliders.com.au/xcracer/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1062
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1062 to https://www.flowparagliders.com.au/spectra/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1080
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1080 to https://www.flowparagliders.com.au/yoti2/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1102
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1102 to https://www.flowparagliders.com.au/yoti2-lite/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3103
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3103 to https://www.flowparagliders.com.au/future-power/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3106
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3106 to https://www.flowparagliders.com.au/cosmos-power-2/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3109
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3109 to https://www.flowparagliders.com.au/rpm2/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1133
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1133 to https://www.flowparagliders.com.au/cosmos-power/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1120
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1120 to https://www.flowparagliders.com.au/rpm/
+23:40:51	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=5518
+23:40:51	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=5518 to https://www.flowparagliders.com.au/vissta-xc/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1148
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1148 to https://www.flowparagliders.com.au/vissta/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=5711
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=5711 to https://www.flowparagliders.com.au/product/flow-d-wing-v2/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3846
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3846 to https://www.flowparagliders.com.au/aura-2/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1168
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1168 to https://www.flowparagliders.com.au/d-chute/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1181
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1181 to https://www.flowparagliders.com.au/rucksack/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3859
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3859 to https://www.flowparagliders.com.au/quick-rucksack/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1164
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1164 to https://www.flowparagliders.com.au/concertina-bag/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3870
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3870 to https://www.flowparagliders.com.au/compression-bag/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3855
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3855 to https://www.flowparagliders.com.au/lightweight-day-bag/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1172
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1172 to https://www.flowparagliders.com.au/flow-dry-fit-tshirt/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3863
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3863 to https://www.flowparagliders.com.au/flow-cap-3/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1176
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1176 to https://www.flowparagliders.com.au/flow-soft-shell-jacket/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1187
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1187 to https://www.flowparagliders.com.au/tandem-spreader-bars/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1160
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1160 to https://www.flowparagliders.com.au/aura/
+23:42:07	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1195
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1195 to https://www.flowparagliders.com.au/flow-paragliders-dealers/
+23:42:07	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-paragliders-estonia/
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-paragliders-estonia/ to https://www.flowparagliders.com.au/flow-paragliders-estonia/?v=89484b14b36a
+23:42:07	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-paragliders-dealers-philippines/
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-paragliders-dealers-philippines/ to https://www.flowparagliders.com.au/flow-paragliders-dealers-philippines/?v=89484b14b36a
+23:42:07	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-paragliders-dealers-dominican-republic/
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-paragliders-dealers-dominican-republic/ to https://www.flowparagliders.com.au/flow-paragliders-dealers-dominican-republic/?v=89484b14b36a
+23:42:07	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-paragliders-dealers-chile/
+23:42:07	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-paragliders-dealers-chile/ to https://www.flowparagliders.com.au/flow-paragliders-dealers-chile/?v=89484b14b36a
+23:42:12	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1201
+23:42:12	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1201 to https://www.flowparagliders.com.au/flow-ppg-dealers/
+23:42:13	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-ppg-dealers-portugal/
+23:42:13	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-ppg-dealers-portugal/ to https://www.flowparagliders.com.au/flow-ppg-dealers-portugal/?v=89484b14b36a
+23:42:13	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-ppg-dealers-spain/
+23:42:13	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-ppg-dealers-spain/ to https://www.flowparagliders.com.au/flow-ppg-dealers-spain/?v=89484b14b36a
+23:42:13	Warning: 	Temporary Redirect for https://www.flowparagliders.com.au/flow-ppg-dealers-israel/
+23:42:13	Warning: 	File has moved from https://www.flowparagliders.com.au/flow-ppg-dealers-israel/ to https://www.flowparagliders.com.au/flow-ppg-dealers-israel/?v=89484b14b36a
+23:42:13	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1486
+23:42:13	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1486 to https://www.flowparagliders.com.au/contact/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4123
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4123 to https://www.flowparagliders.com.au/flow-paragliders-estonia/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=5654
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=5654 to https://www.flowparagliders.com.au/flow-paragliders-dealers-philippines/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4109
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4109 to https://www.flowparagliders.com.au/flow-paragliders-dealers-dominican-republic/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=1381
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=1381 to https://www.flowparagliders.com.au/flow-paragliders-dealers-chile/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3605
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3605 to https://www.flowparagliders.com.au/flow-ppg-dealers-portugal/
+23:42:31	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=3825
+23:42:31	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=3825 to https://www.flowparagliders.com.au/flow-ppg-dealers-spain/
+23:42:32	Warning: 	Moved Permanently for https://www.flowparagliders.com.au/?p=4115
+23:42:32	Warning: 	File has moved from https://www.flowparagliders.com.au/?p=4115 to https://www.flowparagliders.com.au/flow-ppg-dealers-israel/
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 24 seconds : 1193 links scanned, 1069 files written (330048558 bytes overall) [313952408 bytes received at 244511 bytes/sec], 21373519 bytes transferred using HTTP compression in 315 files, ratio 22%, 11.6 requests per connection
+(3 errors, 234 warnings, 0 messages)
